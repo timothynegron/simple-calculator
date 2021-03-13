@@ -2,6 +2,7 @@
 // │ Simple Calculator            │
 // │ -----------------            │
 // │ Written by: Timothy Negron   │	
+// │ File: main.js                │
 // └──────────────────────────────┘
 
 // ┌────────┐

@@ -1,3 +1,10 @@
+// ┌──────────────────────────────┐
+// │ Simple Calculator            │
+// │ -----------------            │
+// │ Written by: Timothy Negron   │	
+// │ File: functions.js           │
+// └──────────────────────────────┘
+
 // ┌────────┐
 // │ Export │	
 // └────────┘
@@ -148,8 +155,8 @@ function errorMessage () {
 
     console.log("\n     Incorrect amount of expressions.")
     console.log("     Or incorrect input.")
-    console.log("       -> No letters")
-    console.log("       -> Numbers and operators must be followed by a space.")
+    console.log("       -> Do not enter any letters")
+    console.log("       -> Multiplier and divisor must be followed by a space.")
     console.log("\n     Enter one simple math expression in quotations.")
     console.log("     Enter -h or -help for help.\n")
 }

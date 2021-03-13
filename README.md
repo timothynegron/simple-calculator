@@ -48,9 +48,13 @@ Simple Calculator:
 
 ##### Valid expression:
 
+##### Help Message:
+
 ##### Invalid expression:
 
-##### Help Message:
+##### Invalide amount of inputs:
+
+![invalid expression image](assets/invalid-expression.png)
 
 ### Inspiration
 
