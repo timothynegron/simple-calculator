@@ -8,8 +8,7 @@ A simple calculator Node app. When given a string with basic math operators and 
 
 1. `Fork` this repo
 2. `Clone` it to your computer
-3. Go to the file path where the app is located
-4. Run the `node main.js` followed by a simple math expression
+3. Run `node main.js` followed by a simple math expression
 
 ##### Examples of valid expressions:
 
