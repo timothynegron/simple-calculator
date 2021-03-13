@@ -21,7 +21,7 @@ A simple calculator Node app. When given a string with basic math operators and 
 
 #### Input
 
-```bash
+```
 simple-calculator:~ node main.js "5 - 5 * 2 + 5 + 5 / 2 + 1.5"
 ```
 
@@ -64,4 +64,6 @@ Simple Calculator:
 
 ### Inspiration
 
-[Codewars - Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048)
+* [Codewars - Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048)
+* I wouldn't have found this kata if it weren't for my friend Kyle Rose.
+* GitHub: [kylexrose](https://github.com/kylexrose)
