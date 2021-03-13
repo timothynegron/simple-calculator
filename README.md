@@ -18,13 +18,13 @@ A simple calculator Node app. When given a string with basic math operators and 
 "2 / 2 + 3 * 4 - 6"
 ```
 
-#### Input
+#### Example Input
 
 ```
 simple-calculator:~ node main.js "5 - 5 * 2 + 5 + 5 / 2 + 1.5"
 ```
 
-#### Output
+#### Example Output
 
 ```
 
@@ -60,4 +60,4 @@ Simple Calculator:
 ### Inspiration
 
 * [Codewars - Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048)
-* My friend Kyle Rose Introduced me to this Kata - GitHub: [kylexrose](https://github.com/kylexrose)
+* My friend Kyle Rose introduced me to this Kata - GitHub: [kylexrose](https://github.com/kylexrose)
