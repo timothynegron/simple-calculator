@@ -13,7 +13,7 @@ A simple calculator Node app. When given a string with basic math operators and 
 
 ##### Examples of valid expressions:
 
-```javascript
+```
 "10 / 2 * 10 + 25 - 3"
 
 "2 / 2 + 3 * 4 - 6"
@@ -27,7 +27,7 @@ simple-calculator:~ node main.js "5 - 5 * 2 + 5 + 5 / 2 + 1.5"
 
 #### Output
 
-```bash
+```
 
 Simple Calculator:
 ─────────────────
@@ -48,13 +48,19 @@ Simple Calculator:
 
 ##### Valid expression:
 
+![valid expression image](assets/valid-expression.png)
+
 ##### Help Message:
+
+![help message image](assets/help-message.png)
 
 ##### Invalid expression:
 
-##### Invalide amount of inputs:
-
 ![invalid expression image](assets/invalid-expression.png)
+
+##### Invalid amount of inputs:
+
+
 
 ### Inspiration
 
