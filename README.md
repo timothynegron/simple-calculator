@@ -4,7 +4,7 @@
 
 A simple calculator Node app. When given a string with basic math operators and numbers separated by spaces, the app will return the value of that expression.
 
-### How To Execute
+### How To Use This App
 
 1. `Fork` this repo
 2. `Clone` it to your computer
